@@ -1,35 +1,33 @@
-<!-- 🎬 Animated Banner -->
+<!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZkZmFtcW95Znl4ZXJxbGZ2bDZ1ZnE3M3V5ZzEyb2t6dzY1eXplNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bcKmIWkUMCjVm/giphy.gif" width="100%" alt="Tayyab Developer Banner">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100%" alt="Tayyab Developer Banner">
 </p>
 
-<h1 align="center">👋 Hi, I'm Tayyab Noor Noor Elahi</h1>
-<h3 align="center">🚀 Passionate Web Developer | JavaScript Learner | Building cool projects every day</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Tayyab Noor Noor Elahi</span></h1>
+<h3 align="center">🚀 Web Developer | JavaScript Learner | Creative Project Builder</h3>
 
 ---
 
-### 🌟 About Me
-💡 Currently on a **200-Day JavaScript Challenge** (Day 5 / 200)  
-🧠 Learning **Web Development & Creative Coding**  
-🎯 Goal: To build interactive web experiences  
-💬 Ask me about **HTML, CSS, JavaScript, Firebase, and React**  
-⚡ Fun fact: I love solving riddles & creating animated websites  
+### 🧠 About Me
+- 🎯 Currently doing a **200-Day JavaScript Challenge**
+- 🧩 Learning **HTML, CSS, JavaScript, Git, GitHub, Firebase, React**
+- 💡 Passionate about **interactive websites and creative coding**
+- 💬 Ask me about **front-end projects, animations, and web apps**
+- ⚡ Fun fact: I enjoy making useful mini-projects like **QR Generators, Stopwatches, and Password Makers**
 
 ---
 
-### 🧠 JavaScript Challenge Progress
-#### `200-Day JS Challenge` 🚀
-<progress value="5" max="200"></progress> **5 / 200 Days Completed**
-
+### 🧩 200-Day JavaScript Challenge Progress
+#### `Day 5 / 200` 🚀
 <p align="center">
-  <img src="https://progress-bar.dev/2.5/?scale=200&title=JS%20Challenge&width=400&color=29a745&suffix=%20Days" alt="JS Challenge Progress"/>
+  <img src="https://progress-bar.dev/5/?scale=200&title=Progress&width=500&color=29a745&suffix=%20Days" alt="JS Challenge Progress">
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,firebase,vscode,figma" alt="My Skills" />
 </p>
 
 ---
@@ -49,12 +47,7 @@
 
 ---
 
-### 🎮 My Work
-- 💻 [JavaScript Projects](https://github.com/tayyabnoornoorelahi-art?tab=repositories)
-- 🧩 [Tayyab Insta App](#)
-- ⚔️ [3D Fighting Game (HTML/JS)](#)
-- 🌐 [Portfolio Website](#)
-
----
-
-
+### ⚙️ Git Quick Start
+```bash
+git clone https://github.com/tayyabnoornoorelahi-art/hacathon.git
+cd hacathon
