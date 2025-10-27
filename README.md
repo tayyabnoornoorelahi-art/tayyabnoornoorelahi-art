@@ -35,7 +35,7 @@ _(Day 5 / 200)_
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn – Tayyab Noor](https://www.linkedin.com/in/tayyab-noor-noor-elahi-11a295364)  
-- 🎥 [YouTube – Tayyab Gaming Hub](https://www.youtube.com/@green_animation_tayyab)  
+- 🎥 [YouTube – CodifyTayyab](https://www.youtube.com/@green_animation_tayyab)  
 - 🌐 My future portfolio: *coming soon... stay tuned!*
 
 ---
