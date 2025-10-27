@@ -1,49 +1,53 @@
 <!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100%" alt="Tayyab Developer Banner">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Tayyab Developer Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Tayyab Noor Noor Elahi</span></h1>
-<h3 align="center">🚀 Web Developer | JavaScript Learner | Creative Project Builder</h3>
+<h3 align="center">💻 Web Developer | 🚀 JavaScript Learner | 🎯 200-Day JS Challenge</h3>
 
 ---
 
 ### 🧠 About Me
-- 🎯 Currently doing a **200-Day JavaScript Challenge**
-- 🧩 Learning **HTML, CSS, JavaScript, Git, GitHub, Firebase, React**
-- 💡 Passionate about **interactive websites and creative coding**
-- 💬 Ask me about **front-end projects, animations, and web apps**
-- ⚡ Fun fact: I enjoy making useful mini-projects like **QR Generators, Stopwatches, and Password Makers**
+- 🌱 Currently on **Day 5 / 200** of my **JavaScript Challenge**  
+- 🔧 Building creative web projects using **HTML, CSS, JS, Firebase, and React**  
+- 🎮 Passionate about **games, coding, and UI animations**  
+- 💬 Ask me about **front-end projects, Firebase integration, and web design**  
+- ⚡ Fun fact: I enjoy turning simple ideas into cool interactive websites  
 
 ---
 
-### 🧩 200-Day JavaScript Challenge Progress
-#### `Day 5 / 200` 🚀
+### 🚀 JavaScript Challenge Progress
 <p align="center">
-  <img src="https://progress-bar.dev/5/?scale=200&title=Progress&width=500&color=29a745&suffix=%20Days" alt="JS Challenge Progress">
+  <img src="https://progress-bar.dev/5/?scale=200&title=Progress&width=500&color=00BFFF&suffix=%20Days" alt="JS Challenge Progress">
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,firebase,vscode,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,firebase,vscode,figma,tailwind" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/tayyab-noor-noor-elahi-11a295364">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@green_animation_tayyab">
-    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/tayyabnoornoorelahi-art">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
-</p>
+### 🕹️ My Projects
+
+| 💡 Project Name | 🔗 Link | ⚙️ Tech Used |
+|-----------------|---------|--------------|
+| 🎮 **3D Fighting Game** | [Play Now](#) | HTML, CSS, JS |
+| 📸 **Tayyab Insta (Instagram Clone)** | [View Project](#) | React, Firebase, Tailwind |
+| 🚗 **Automated Parking System** | [Live Demo](#) | HTML, CSS, JS |
+| 💪 **Gym Website** | [Open Site](#) | HTML, CSS, JS |
+| 🌈 **Background Color Changer** | [Try Now](#) | JavaScript |
+| 🗣️ **Text to Speech App** | [View App](#) | JS Speech API |
+| ⏱️ **Stopwatch** | [Open Stopwatch](#) | JavaScript |
+| 🧮 **Number to Words Converter** | [Try Tool](#) | JS |
+| 🔐 **Random Password Generator** | [Generate](#) | JS |
+| 📱 **QR Code Generator** | [Open Tool](#) | HTML, JS |
+| 💡 **Bulb On/Off Project** | [Try It](#) | HTML, CSS, JS |
+
+> 🧩 I keep updating these projects as I improve during my JS Challenge!
 
 ---
 
