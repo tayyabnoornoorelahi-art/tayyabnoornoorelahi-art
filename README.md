@@ -1,3 +1,31 @@
+# 👋 Hi, I'm Tayyab Noor Elahi
+
+💻 I'm learning **JavaScript** and building fun projects every day!  
+🚀 Currently on **Day 8 of 200** in my #JavaScript learning journey.  
+
+---
+
+### 🔧 Skills
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+### 🌐 My Projects
+- 🎨 [Background Color Changer](https://tayyabnoornoorelahi-art.github.io/bg-clr-changer/)
+- 💬 Chatbot (coming soon!)
+
+---
+
+### 📊 GitHub Stats
+![Tayyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabnoornoorelahi-art&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://youtu.be/mvMvKCaYOig)
 ## Hi there 👋
 
 <!--
