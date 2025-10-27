@@ -12,7 +12,7 @@ _(Day 5 / 200)_
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **Advanced JavaScript** and building fun projects daily  
-- 🎮 I’m creating my own gaming channel — **[Tayyab Gaming Hub](https://www.youtube.com/@green_animation_tayyab)**  
+- 🎮 I’m creating my own js challenge channel — **[Tayyab Gaming Hub](https://www.youtube.com/@green_animation_tayyab)**  
 - 💡 I enjoy making practical and creative tools with JS  
 - 💬 Ask me about **Web Development, HTML, CSS, and JavaScript**  
 - ⚡ Fun fact: I love solving riddles and building projects that make people smile 😄  
