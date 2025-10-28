@@ -35,10 +35,6 @@
 
 | 💡 Project Name | 🔗 Link | ⚙️ Tech Used |
 |-----------------|---------|--------------|
-| 🎮 **3D Fighting Game** | [Play Now](#) | HTML, CSS, JS |
-| 📸 **Tayyab Insta (Instagram Clone)** | [View Project](#) | React, Firebase, Tailwind |
-| 🚗 **Automated Parking System** | [Live Demo](#) | HTML, CSS, JS |
-| 💪 **Gym Website** | [Open Site](#) | HTML, CSS, JS |
 | 🌈 **Background Color Changer** | [Try Now](#) | JavaScript |
 | 🗣️ **Text to Speech App** | [View App](#) | JS Speech API |
 | ⏱️ **Stopwatch** | [Open Stopwatch](#) | JavaScript |
