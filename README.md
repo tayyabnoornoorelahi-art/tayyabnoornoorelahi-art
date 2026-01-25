@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 About Me
-- 🌱 Currently on **Day 5 / 200** of my **JavaScript Challenge**  
+- 🌱 Currently on **Day 21 / 200** of my **JavaScript Challenge**  
 - 🔧 Building creative web projects using **HTML, CSS, JS, Firebase, and React**  
 - 🎮 Passionate about **games, coding, and UI animations**  
 - 💬 Ask me about **front-end projects, Firebase integration, and web design**  
@@ -31,23 +31,3 @@
 
 ---
 
-### 🕹️ My Projects
-
-| 💡 Project Name | 🔗 Link | ⚙️ Tech Used |
-|-----------------|---------|--------------|
-| 🌈 **Background Color Changer** | [Try Now](#) | JavaScript |
-| 🗣️ **Text to Speech App** | [View App](#) | JS Speech API |
-| ⏱️ **Stopwatch** | [Open Stopwatch](#) | JavaScript |
-| 🧮 **Number to Words Converter** | [Try Tool](#) | JS |
-| 🔐 **Random Password Generator** | [Generate](#) | JS |
-| 📱 **QR Code Generator** | [Open Tool](#) | HTML, JS |
-| 💡 **Bulb On/Off Project** | [Try It](#) | HTML, CSS, JS |
-
-> 🧩 I keep updating these projects as I improve during my JS Challenge!
-
----
-
-### ⚙️ Git Quick Start
-```bash
-git clone https://github.com/tayyabnoornoorelahi-art/hacathon.git
-cd hacathon
